@@ -6,7 +6,7 @@
 
 - [What is Git and Github and Why you need it?](https://youtu.be/QhqVRuRBA9w)
 
-### Vedio-Tutorials
+### Vedio-Tutorials(Begineers Edition)
 
 - [Code with Harry-Git Bash](https://youtu.be/gwWKnnCMQ5c)
 
@@ -14,6 +14,6 @@
 
 - [Learn Git in 15 min](https://youtu.be/USjZcfj8yxE)
 
-### Learn Git by Visualization and Advanced Git Branching
+### Learn Git by Visualization and Advanced Git Branching(Master Edition)
 
-- [Learn-Git-Branching](https://learngitbranching.js.org/)
+- [Learn-Git-Branching and Adv Commands](https://learngitbranching.js.org/)
