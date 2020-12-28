@@ -1,14 +1,13 @@
 
-# Pydata-Local-Meetups
+# PyData Local Meetups
 
-Organizational repository for the meetups initiave in Pydata Guna
+The organizational repository for the meetups initiated in PyData Guna.
 
-## Meetups Record
+## Meetup Record
 
-List of all the meetups of the Pydata Guna Community along with the links to their respective speakers and their notes/slides.
+This is a list of all the meetups conducted by the Community, along with the links to their respective speakers, recodrings, and notes/slides.
 
-
-### 2020-21 Winter Fall
+### Fall and Winter, 2020-21
 
 | Date       | Meetup Topic 	          | Details                                       | Speaker(s) | Talk Slides/Notes                                            |
 | ---------- | -------------------------|-----------------------------------------------| ---------- | -------------------------------------------------------------|
