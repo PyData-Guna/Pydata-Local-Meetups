@@ -20,3 +20,6 @@ This is a list of all the meetups conducted by the Community, along with the lin
 | 27/12/20   | Neo4j and MongoDB | Modern database systems | [Param Siddharth](https://github.com/paramsiddharth) and [Ritesh Yadav](https://github.com/DARK-art108)| [Workshop Document with Exercises](./docs/6.neo4j-mongodb.md), [Recording on YouTube](https://youtu.be/_XT9jIhDSbM) |
 | 10/01/21   | Machine Learning using Pandas and Scikit-Learn | An introduction to machine learning in Python | [Param Siddharth](https://github.com/paramsiddharth) and [Ritesh Yadav](https://github.com/DARK-art108)| [Workshop Document with Exercises](7.ml-pandas-sklearn.md), [Recording on YouTube](https://youtu.be/FzvM9nYZmf0) |
 | 06/02/21   | SQLite 3 and its Python application | Hands-on experience with SQLite in the command-line and its usage in Python | [Kushan Sukhtankar](https://github.com/kushansuk2) and [Mukul Kumar](https://github.com/Clash-ion)| [Workshop Document with Notes](https://github.com/kushansuk2/sqlite3/blob/main/README.md), [Workshop Exercises](https://github.com/kushansuk2/sqlite3/blob/main/SQLite-Excercise.md) |
+
+### Spring and Summer, 2021
+_No workshops yet._
