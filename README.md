@@ -26,3 +26,9 @@ This is a list of all the meetups conducted by the Community, along with the lin
 | Date       | Meetup Topic 	          | Details                                       | Speaker(s) | Talk Slides/Notes                                            |
 | ---------- | -------------------------|-----------------------------------------------| ---------- | -------------------------------------------------------------|
 | 25/07/21   | Introduction to Cybersecurity | A comprehensive introduction to cybersecurity and hacking. | [Param Siddharth](https://www.paramsid.com) | [Workshop Repository](https://github.com/paramsiddharth/cybersec-workshop), [Recording on YouTube](https://youtu.be/-w6PZv5TZ3U) |
+
+### Fall and Winter, 2021
+
+| Date       | Meetup Topic 	          | Details                                       | Speaker(s) | Talk Slides/Notes                                            |
+| ---------- | -------------------------|-----------------------------------------------| ---------- | -------------------------------------------------------------|
+| 26/11/21   | Development Fundamentals and Version Control | Educating CS freshers about development fundamentals and getting started. | [Param Siddharth](https://www.paramsid.com), [Ritesh Yadav](https://github.com/DARK-art108), and [Vanama Yaswanth](https://github.com/vanamayaswanth) | [Workshop Presentation](https://github.com/PyData-Guna/Pydata-Local-Meetups/releases/download/dev-funda/Dev.Funda.Friday.pdf) |
